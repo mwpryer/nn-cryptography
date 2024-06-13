@@ -1,5 +1,7 @@
 # Adversarial Neural Cryptography
 
+Exploring the capability of neural networks to learn symmetric and asymmetric encryption schemes. Train and experiment with the symmetric model [here](https://colab.research.google.com/github/mwpryer/nn-cryptography/blob/main/symmetric.ipynb), or the asymmetric model [here](https://colab.research.google.com/github/mwpryer/nn-cryptography/blob/main/asymmetric.ipynb).
+
 ## Overview
 
 In 2016, Abadi and Anderson introduced a novel approach for learning encryption schemes using neural networks, termed Adversarial Neural Cryptography [[1]](https://arxiv.org/pdf/1610.06918.pdf).
